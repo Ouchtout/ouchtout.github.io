@@ -10,7 +10,7 @@ author_profile: true
 This animation shows the transient heat diffusion
 in a 2D domain.
 
-![Heat simulation](../assets/img/Temperature-ezgif-com-video-to-gif-converter.gif)
+![Heat simulation](../assets/images/Temperature-ezgif-com-video-to-gif-converter.gif)
 
 ### Details
 - **Equation:** ∂T/∂t = α ∇²T
