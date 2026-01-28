@@ -1,27 +1,9 @@
+## Simulation Numérique
 
----
-title: "Numerical Simulations GIFFF"
-permalink: /simulationsss/
-layout: single
-author_profile: true
----
+Voici une simulation thermique transitoire :
 
-## Heat Transfer Simulation (FEM)
+![Simulation thermique](Temperature-ezgif-com-video-to-gif-converter.gif)
 
-This animation shows the transient heat diffusion
-in a 2D domain.
-
-
-<img src="{{ site.baseurl }}/assets/images/Temperature-ezgif-com-video-to-gif-converter.gif"
-     alt="Simulation"
-     width="700">
-
-### Details
-- **Equation:** ∂T/∂t = α ∇²T
-- **Method:** Finite Element Method
-- **Software:** FreeFEM / Python
-- **Application:** Thermal analysis
-
-### Related publication
-- S. Ouuu et al., *Journal of Thermal Science*, 2024
-
+**Méthode :** FEM  
+**Logiciel :** FreeFEM / Python  
+**Publication associée :** S. Ouuu et al., *Journal of Thermal Science*, 2025
