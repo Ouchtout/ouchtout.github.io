@@ -9,7 +9,7 @@ author_profile: true
 
 Cette simulation illustre la **diffusion thermique transitoire** dans un matériau composite à l'aide de la méthode des **éléments finis (FEM)**.
 
-![Simulation thermique](imagesFolio/emperature-ezgif-com-video-to-gif-converter.gif)
+![Simulation thermique](imagesFolio/Temperature-ezgif-com-video-to-gif-converter.gif)
 
 ### Détails de la simulation
 - **Équation étudiée :** ∂T/∂t = α ∇²T  
