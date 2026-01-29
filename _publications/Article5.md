@@ -1,13 +1,15 @@
 ---
 title: |
-  <span style="color:#000000;"> **Ouchtout, S.**, Mghazli, Z., Harmand, J., Rapaport, A., & Belhachmi, Z. *Analysis of an anaerobic digestion model in landfill with mortality term*. **Communications in Pure and Applied Analysis**, 19(4), 2333-2346.</span>
-   <span style="color:#34a853;">(2020)</span>
+  <span style="color:#000000;"> M. Abaali, **S. Ouchtout**. *Modelling and analysis of the biodenitrification process*. **Biomath**, 12(2), 2309187-2309187.</span>
+   <span style="color:#d93025;">(2023)</span>
 collection: publications
 category: manuscripts
 venue: " "
 external_link: https://doi.org/10.xxxx/xxxxx
 excerpt: ' '
 ---
-BLBAABLABKA BLBAABLABKA BLBAABLABKA BLBAABLABKA BLBAABLABKA 
-  
- 
+
+Access URL: https://biomath.math.bas.bg/biomath/index.php/biomath/article/view/j.biomath.2023.09.187
+
+
+
