@@ -1,6 +1,6 @@
 ---
 title: "Anaerobic Digestion Dynamics (Video)"
-excerpt: "  <br/><img src='/images/pic.png'>"
+excerpt: "  <br/><img src='/images/Pic2b.png'>"
 collection: portfolio
 ---
 
