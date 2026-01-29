@@ -9,9 +9,9 @@ collection: portfolio
 
  
 <video width="600" controls>
-  <source src="{{ '/assets/videos/Temperature.mp4' | relative_url }}" type="video/mp4">
+  <source src="{{ '/assets/videos/CommingSoon.mp4' | relative_url }}" type="video/mp4">
   Votre navigateur ne supporte pas la lecture vidéo.
 </video>
 
-**Publication associée :** Journal of Thermal Science, 2025
+**Publication associée :** Boletim da Sociedade Paranaense de Matematica, 2025
 
