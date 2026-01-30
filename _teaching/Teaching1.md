@@ -13,13 +13,13 @@ excerpt: 'Cliquez sur cet élément pour consulter la description détaillée.'
 
 
 
-Analyse mathématique de base : suites et séries numériques, convergence et applications.
+*-Analyse mathématique de base : suites et séries numériques, convergence et applications.*
 
-Fonctions réelles d’une variable réelle : continuité, dérivabilité et étude de fonctions.
+*-Fonctions réelles d’une variable réelle : continuité, dérivabilité et étude de fonctions.*
 
-Calcul différentiel : théorèmes fondamentaux (théorème des accroissements finis, Taylor).
+*-Calcul différentiel : théorèmes fondamentaux (théorème des accroissements finis, Taylor).*
 
-Intégration : intégrale de Riemann, techniques de calcul et applications.
+*-Intégration : intégrale de Riemann, techniques de calcul et applications.*
 
-Équations différentielles ordinaires simples et problèmes d’application.
+*-Équations différentielles ordinaires simples et problèmes d’application.*
 
