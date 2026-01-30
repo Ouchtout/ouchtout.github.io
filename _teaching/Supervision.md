@@ -2,7 +2,7 @@
 title: "Expérience en coencadrement académique d’un projet de fin d’études de master en mathématiques appliquées"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2014-spring-teaching-4
 venue: "University 1, Department"
 date: 2014-01-01
 location: "City, Country"
