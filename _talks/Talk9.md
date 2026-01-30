@@ -1,6 +1,6 @@
 ---
 title: |
-  <span style="color:#800080;"> **S. Ouchtout**, Z. Belhachmi and Z. Mghazli. *Modeling and simulation of leachate flow in the anaerobic biodegradation of household waste*., The 9th International Congress on Industrial and Applied Mathematics, ICIAM July 15-19 Valencia-Spain, 16 July 2019. </span>
+  <span style="color:#800080;"> **S. Ouchtout**, L. Cangémi, Y. Favennec and B. Rousseau. *A finite element solver for modeling coupled heat transfers in architectured porous media up to very high temperature*., JEMP 2023 - 16ème édition des Journées d’Etude des Milieux Poreux, from 17 to 19 October 2023, IFP Energies nouvelles, Rueil-Malmaison, France. </span>
   <b><span style="color:#d93025;"> (France , 2023) </span></b>
 collection: talks
 type: "Talk"
