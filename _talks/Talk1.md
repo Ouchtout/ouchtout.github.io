@@ -1,5 +1,6 @@
 ---
-title: "TTTalk 1 on Relevant Topic in Your Field"
+title: |
+  <span style="color:#fbbc04;">Numerical Simulation</span>
 collection: talks
 type: "Talk"
 permalink: /talks/2012-03-01-talk-1
