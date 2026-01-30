@@ -4,7 +4,7 @@ title: |
   <b><span style="color:#d93025;"> (Spain , 2019)</span></b>
 collection: talks
 type: "Talk"
-permalink: /talks/2012-03-01-talk-1
+permalink: /talks/T1
 ---
  
 [More information here](https://iciam2019.com/)
