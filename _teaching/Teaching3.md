@@ -1,13 +1,13 @@
 ---
 title: "Troisième expérience d’enseignement à l’Université de Technologie de Compiègne – Année universitaire 2025–2026 (Deuxième semestre)"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-3
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Laboratoire LMAC"
+permalink: /teaching/Teaching-3
+venue: "Université UTC"
+date: 2026-01-01
+location: "Compiègne, France"
 excerpt: 'Cliquez sur cet élément pour consulter la description détaillée.'
----
+--- 
 
 
 Fonctions de plusieurs variables : étude des fonctions de deux et de plusieurs variables réelles.
