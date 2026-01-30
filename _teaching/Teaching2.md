@@ -9,17 +9,17 @@ location: "Compiègne, France"
 excerpt: 'Cliquez sur cet élément pour consulter la description détaillée.'
 --- 
 
-Rappels et mise au point : intégrale de Riemann (propriétés, calculs), espaces euclidiens et hermitiens, primitives usuelles et compléments analytiques.
+*-Rappels et mise au point : intégrale de Riemann (propriétés, calculs), espaces euclidiens et hermitiens, primitives usuelles et compléments analytiques.*
 
-Séries de Fourier : développement des fonctions périodiques sur bases orthogonales, polynômes trigonométriques, convergence ponctuelle et exemples d’application.
+*-Séries de Fourier : développement des fonctions périodiques sur bases orthogonales, polynômes trigonométriques, convergence ponctuelle et exemples d’application.*
 
-Transformation de Fourier discrète (TFD/FFT) : principes de la TFD, calcul d’erreur d’approximation, FFT, convolution discrète, débruitage et compression d’image.
+*-Transformation de Fourier discrète (TFD/FFT) : principes de la TFD, calcul d’erreur d’approximation, FFT, convolution discrète, débruitage et compression d’image.*
 
-Intégrale de Lebesgue : motivation par rapport à l’intégrale de Riemann, définition pour fonctions positives et intégrables, espaces Lp, et applications pratiques.
+*-Intégrale de Lebesgue : motivation par rapport à l’intégrale de Riemann, définition pour fonctions positives et intégrables, espaces Lp, et applications pratiques.*
 
-Transformée de Fourier continue : transformée dans L1 et L2, propriétés, transformée inverse, convolution et applications (équation de la chaleur, transformée de Gabor).
+*-Transformée de Fourier continue : transformée dans L1 et L2, propriétés, transformée inverse, convolution et applications (équation de la chaleur, transformée de Gabor).*
 
-Applications pratiques en ingénierie et physique : traitement du signal, analyse de données, résolution de problèmes modèles par FFT et transformée de Fourier.
+*-Applications pratiques en ingénierie et physique : traitement du signal, analyse de données, résolution de problèmes modèles par FFT et transformée de Fourier.*
 
-Théorèmes et compléments analytiques : preuves, propriétés supplémentaires et résultats utiles pour l’analyse fonctionnelle et l’intégration.
+*-Théorèmes et compléments analytiques : preuves, propriétés supplémentaires et résultats utiles pour l’analyse fonctionnelle et l’intégration.*
 
