@@ -1,6 +1,6 @@
 ---
 title: "Compressible Two-Phase Flow (Video)"
-excerpt: "  <br/><img src='/images/Pic3.png' width='300' height='200'>"
+excerpt: "  <br/><img src='/images/Pic3b.png' width='300' height='200'>"
 collection: portfolio
 ---
 
