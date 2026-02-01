@@ -13,5 +13,5 @@ collection: portfolio
   Votre navigateur ne supporte pas la lecture vidéo.
 </video>
 
-**Publication associée :** Biomath, 2023
+**Publication associée :** [Biomath, 2023.](https://biomath.math.bas.bg/biomath/index.php/biomath/article/view/j.biomath.2023.09.187)
 
