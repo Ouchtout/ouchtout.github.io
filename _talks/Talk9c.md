@@ -7,7 +7,7 @@ type: "Talk"
 permalink: /talks/T11
 ---
  
-[More information here](https://iciam2019.com/)
+[More information here](https://lmac.utc.fr/)
  
 
  
