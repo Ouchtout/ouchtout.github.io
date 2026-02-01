@@ -13,4 +13,4 @@ collection: portfolio
   Votre navigateur ne supporte pas la lecture vidéo.
 </video>
 
-**Publication associée :** HAL-05403061, 2025
+**Publication associée :** [HAL-05403061, 2025.](https://hal.science/hal-05403061/)
