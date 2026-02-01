@@ -13,4 +13,4 @@ collection: portfolio
   Votre navigateur ne supporte pas la lecture vidéo.
 </video>
 
-**Publication associée :**  Mathematical Modeling and Computing, 2022
+**Publication associée :**  [Mathematical Modeling and Computing, 2022.](https://doi.org/10.23939/mmc2022.03.483)
