@@ -13,5 +13,5 @@ collection: portfolio
   Votre navigateur ne supporte pas la lecture vidéo.
 </video>
 
-**Publication associée :** Boletim da Sociedade Paranaense de Matematica, 2025
+**Publication associée :** [Boletim da Sociedade Paranaense de Matematica, 2025.](https://periodicos.uem.br/ojs/index.php/BSocParanMat/article/view/77995)
 
