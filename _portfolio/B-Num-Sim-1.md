@@ -12,4 +12,4 @@ collection: portfolio
 </video>
  
 
-**Publication associée :** Mathematics and Computers in Simulation, 2021.
+**Publication associée :** [Mathematics and Computers in Simulation, 2021.](https://www.sciencedirect.com/science/article/abs/pii/S0378475420304754?via%3Dihub)
