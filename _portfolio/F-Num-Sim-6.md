@@ -13,5 +13,5 @@ collection: portfolio
   Votre navigateur ne supporte pas la lecture vidéo.
 </video>
 
-**Publication associée :** Computers & Mathematics with Applications, 2024
+**Publication associée :** [Computers & Mathematics with Applications, 2024.](https://www.sciencedirect.com/science/article/abs/pii/S0898122124002748)
 
