@@ -19,7 +19,7 @@ My area of research is Applied Mathematics. My actual research focuses on modeli
 - Multiphase (single- and two-phase) flow modeling in reactive porous media.
 - Convection–conduction–radiation heat transfer at both discrete and continuous scales.
 - Anaerobic digestion process for biogas production.
-- Coupled multiphysics partial differential equation problems
+- Coupled multiphysics partial differential equation problems.
 - Microbial and biological processes in environmental systems: biodegradation of organic matter, biodenitrification, and Trichoderma fungal dynamics.
 
 
