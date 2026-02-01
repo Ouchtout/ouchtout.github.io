@@ -9,6 +9,6 @@ external_link: https://doi.org/10.xxxx/xxxxx
 excerpt: ' '
 ---
 
-Access URL:  https://hal.science/hal-01973909/
+Access URL:  [https://hal.science/hal-01973909/](https://hal.science/hal-01973909/)
 
 
