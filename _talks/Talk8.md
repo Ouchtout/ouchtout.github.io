@@ -7,7 +7,7 @@ type: "Talk"
 permalink: /talks/T8
 ---
  
-[More information here](https://iciam2019.com/)
+[More information here](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://jith.eu/application/files/4816/6835/0343/Programme_JITH2022_15-16-17_Novembre_2022.pdf&ved=2ahUKEwiHmc_0qreSAxVbNvsDHSWIAUAQFnoECCMQAQ&usg=AOvVaw2Q9AkW5IQ2E124T6gg7goX)
  
 
 
