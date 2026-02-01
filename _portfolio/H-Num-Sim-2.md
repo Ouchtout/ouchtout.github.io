@@ -13,4 +13,4 @@ collection: portfolio
   Votre navigateur ne supporte pas la lecture vidéo.
 </video>
 
-**Publication associée :** Communications in Pure and Applied Analysis , 2020
+**Publication associée :** [Communications in Pure and Applied Analysis , 2020.](https://www.aimsciences.org/article/doi/10.3934/cpaa.2020101)
