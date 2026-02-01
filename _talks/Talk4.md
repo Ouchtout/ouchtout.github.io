@@ -7,7 +7,7 @@ type: "Talk"
 permalink: /talks/T4
 ---
  
-[More information here](https://iciam2019.com/)
+[More information here](https://treasure.hub.inrae.fr/seminars/webinaire-2021)
  
 
 
