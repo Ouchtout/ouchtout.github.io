@@ -9,7 +9,7 @@ external_link: https://doi.org/10.xxxx/xxxxx
 excerpt: ' '
 ---
 
-Access URL: https://periodicos.uem.br/ojs/index.php/BSocParanMat/article/view/77995
+Access URL: [https://periodicos.uem.br/ojs/index.php/BSocParanMat/article/view/77995](https://periodicos.uem.br/ojs/index.php/BSocParanMat/article/view/77995)
 
 
 
