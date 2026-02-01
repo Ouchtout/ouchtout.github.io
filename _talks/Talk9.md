@@ -7,7 +7,7 @@ type: "Talk"
 permalink: /talks/T9
 ---
  
-[More information here](https://iciam2019.com/)
+[More information here](https://jemp2023.sciencesconf.org/program)
  
 
 
