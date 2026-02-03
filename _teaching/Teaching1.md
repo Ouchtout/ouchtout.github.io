@@ -6,11 +6,12 @@ permalink: /teaching/Teaching-1
 venue: "Université UTC"
 date: 2025-01-01
 location: "Compiègne, France"
-excerpt: 'Cliquez sur cet élément pour consulter la description détaillée.'
+excerpt: ' '  #comment-Cliquez sur cet élément pour consulter la description détaillée.'
 --- 
 
+Ce cours de MT02 a pour objectif d’introduire les notions fondamentales de l’analyse mathématique.
 
-
+**_Programme :_**
 
 
 *-Analyse mathématique de base : suites et séries numériques, convergence et applications.*
