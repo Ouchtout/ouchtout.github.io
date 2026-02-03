@@ -6,8 +6,12 @@ permalink: /teaching/Teaching-2
 venue: "Université UTC"
 date: 2025-01-01
 location: "Compiègne, France"
-excerpt: 'Cliquez sur cet élément pour consulter la description détaillée.'
+excerpt: ' '   #commentCliquez sur cet élément pour consulter la description détaillée.
 --- 
+
+Ce cours de MT12 a pour objectif d’approfondir les outils fondamentaux de l’analyse mathématique et de l’analyse de Fourier, en mettant l’accent sur les aspects théoriques, numériques et leurs applications en ingénierie et en physique.
+
+**_Programme_:**
 
 *-Rappels et mise au point : intégrale de Riemann (propriétés, calculs), espaces euclidiens et hermitiens, primitives usuelles et compléments analytiques.*
 
