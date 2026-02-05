@@ -24,6 +24,9 @@ My area of research is Applied Mathematics. My actual research focuses on modeli
 
 
 
+[URL=http://s01.flagcounter.com/more/6LA][IMG]https://s01.flagcounter.com/count2/6LA/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_100/viewers_3/labels_0/pageviews_1/flags_0/percent_0/[/IMG][/URL]
+
+
 
 
 
