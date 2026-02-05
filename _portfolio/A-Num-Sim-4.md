@@ -9,7 +9,7 @@ collection: portfolio
 
  
 <video width="600" controls>
-  <source src="{{ '/assets/videos/CommingSoon.mp4' | relative_url }}" type="video/mp4">
+  <source src="{{ '/assets/videos/videoMacro1.mp4' | relative_url }}" type="video/mp4">
   Votre navigateur ne supporte pas la lecture vidéo.
 </video>
 
