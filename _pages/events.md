@@ -1,6 +1,9 @@
 ---
-layout: archive
+layout: page
 title: "Events"
-collection: events
 permalink: /events/
 ---
+
+{% for post in site.events %}
+- [{{ post.title }}]({{ post.url | relative_url }})
+{% endfor %}
