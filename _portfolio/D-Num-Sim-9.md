@@ -1,5 +1,5 @@
 ---
-title: "Bin-Packing (Video)"
+title: "Bin-Packing (GIF/Video)"
 excerpt: "  <br/><img src='/images/Pic0.png' width='400' height='200'>"
 collection: portfolio
 ---
