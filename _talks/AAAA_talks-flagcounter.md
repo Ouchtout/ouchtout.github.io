@@ -1,7 +1,7 @@
 ---
 title: ""  
 collection: talks
-permalink: /talks/flagcounter/
+permalink: /talks/talk-flagcounter/
 ---
 
 
