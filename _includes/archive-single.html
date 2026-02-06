@@ -38,10 +38,9 @@
       <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
 
- <!-- cette ligne est en commentaire         {% if post.collection == 'teaching' %}                  -->
+       {% if post.collection == 'teaching' %}                 
  <!-- cette ligne est en commentaire          <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>         -->
-        {% if post.collection == 'teaching' and post.type %}
-          <p>{{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }}</p>
+          <p>{{ post.type }} <i>{{ post.venue }}</i> {{ post.date | date: "%Y" }}</p>
         {% elsif post.collection == 'publications' %}
           <p>  <i>{{ post.venue }}</i>  {{ post.date | default: " " | date: "%Y" }} </p>
         {% elsif post.date %}
