@@ -235,6 +235,14 @@ collections:
     permalink: /:collection/:path/
 
 
+        # creation de la nouvelle section  Events
+collections:
+  events:
+    output: true
+    permalink: /events/:path/
+
+
+
 # These settings control how pages and collections are included in the site
 defaults:
   # _posts
