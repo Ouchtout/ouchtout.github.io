@@ -236,7 +236,7 @@ collections:
 
 
         # creation de la nouvelle section  Events
-collections:
+#collections:
   events:
     output: true
     permalink: /events/:path/
