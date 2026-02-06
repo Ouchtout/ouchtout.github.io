@@ -1,5 +1,5 @@
 ---
-title: "Chemotaxis-Biodenitrification Process (Video)"
+title: "Chemotaxis-Biodenitrification Process (GIF/Video)"
 excerpt: "  <br/><img src='/images/Pic6.png' width='400' height='200'>"
 collection: portfolio
 ---
