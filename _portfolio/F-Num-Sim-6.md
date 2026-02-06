@@ -1,5 +1,5 @@
 ---
-title: "Compressible Two-Phase Flow (Video)"
+title: "Compressible Two-Phase Flow (GIF/Video)"
 excerpt: "  <br/><img src='/images/Pic3b.png' width='300' height='200'>"
 collection: portfolio
 ---
