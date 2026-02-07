@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 description: "Welcome to S. Ouchtout Home Page"
 ---
-
+ 
 I am currently a Temporary Teaching and Research Associate at the [LMAC](https://lmac.utc.fr/) Laboratory of the Université de Technologie de Compiègne.
  
 Prior to this, I was a postdoctoral researcher at the [LTeN](https://lten.cnrs.fr/) Laboratory of the  Ecole Polytechnique of Nantes, then at the [IFP Energies nouvelles](https://www.ifpenergiesnouvelles.fr/) of Rueil-Malmaison, before holding the position of Research engineer at the  French Alternative Energies and Atomic Energy Commission [CEA-Cadarache](https://cadarache.cea.fr/cad/Pages/Accueil.aspx). I graduated with a Ph.D in Applied Mathematics from the Université de Haute-Alsace of Mulhouse and from the Université Ibn-Tofail of Kenitra, in the framework of a cotutelle program. My thesis was on "Mathematical modeling and numerical study of single-phase and two-phase flow problems arising from the anaerobic biodegradation of organic matter for biogas production"  under the joint supervision of Pr. [Z. Belhachmi](https://www.researchgate.net/profile/Zakaria-Belhachmi)  form UHA-M and Pr. [Z. Mghazli](https://www.researchgate.net/profile/Zoubida-Mghazli)  from UIT-K.
