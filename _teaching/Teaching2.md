@@ -9,21 +9,21 @@ location: "Compiègne, France"
 excerpt: ' '   #commentCliquez sur cet élément pour consulter la description détaillée.
 --- 
 
-Ce cours de MT12 a pour objectif d’approfondir les outils fondamentaux de l’analyse mathématique et de l’analyse de Fourier, en mettant l’accent sur les aspects théoriques, numériques et leurs applications en ingénierie et en physique.
 
-**_Programme_:**
+Dans le cadre du cours MT12 du deuxième semestre de l’année universitaire 2024/2025, j’ai assuré les travaux dirigés (TD) consacrés à l’approfondissement des outils fondamentaux de l’analyse mathématique et de l’analyse de Fourier, en mettant l’accent sur les aspects théoriques, numériques ainsi que sur leurs applications en ingénierie et en physique.
 
-*-Rappels et mise au point : intégrale de Riemann (propriétés, calculs), espaces euclidiens et hermitiens, primitives usuelles et compléments analytiques.*
+Les TD ont porté notamment sur les points suivants :
 
-*-Séries de Fourier : développement des fonctions périodiques sur bases orthogonales, polynômes trigonométriques, convergence ponctuelle et exemples d’application.*
 
-*-Transformation de Fourier discrète (TFD/FFT) : principes de la TFD, calcul d’erreur d’approximation, FFT, convolution discrète, débruitage et compression d’image.*
+*-**Rappels et mise au point** : intégrale de Riemann (propriétés, calculs), espaces euclidiens et hermitiens, primitives usuelles et compléments analytiques.*
 
-*-Intégrale de Lebesgue : motivation par rapport à l’intégrale de Riemann, définition pour fonctions positives et intégrables, espaces Lp, et applications pratiques.*
+*-**Séries de Fourier** : Séries de Fourier d’une fonction périodique, Convergence ponctuelle des séries de Fourier, propriétés supplémentaires et exemples d’application.*
 
-*-Transformée de Fourier continue : transformée dans L1 et L2, propriétés, transformée inverse, convolution et applications (équation de la chaleur, transformée de Gabor).*
+*-**Transformation de Fourier discrète (TFD/FFT)** : principes de la TFD, calcul d’erreur d’approximation, FFT, convolution discrète, débruitage et compression d’image.*
 
-*-Applications pratiques en ingénierie et physique : traitement du signal, analyse de données, résolution de problèmes modèles par FFT et transformée de Fourier.*
+*-**Intégrale de Lebesgue** : motivation par rapport à l’intégrale de Riemann, théorèmes utiles de l’intégration de Lebesgue, espaces Lp et applications pratiques.*
 
-*-Théorèmes et compléments analytiques : preuves, propriétés supplémentaires et résultats utiles pour l’analyse fonctionnelle et l’intégration.*
+*-**Transformée de Fourier continue** : transformée dans L1 et L2, propriétés, transformée inverse, convolution et applications (équation de la chaleur, transformée de Gabor).*
+
+ 
 
