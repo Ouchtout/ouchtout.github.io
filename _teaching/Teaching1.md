@@ -1,5 +1,5 @@
 ---
-title: "Deuxième expérience d’enseignement à l’Université de Technologie de Compiègne – Année universitaire 2024–2025"
+title: "Première expérience d’enseignement à l’Université de Technologie de Compiègne – Année universitaire 2024–2025"
 collection: teaching
 type: "Laboratoire LMAC"
 permalink: /teaching/Teaching-1
