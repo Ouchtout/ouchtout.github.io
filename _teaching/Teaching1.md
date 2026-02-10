@@ -9,18 +9,19 @@ location: "Compiègne, France"
 excerpt: ' '  #comment-Cliquez sur cet élément pour consulter la description détaillée.'
 --- 
 
-Ce cours de MT02 a pour objectif d’introduire les notions fondamentales de l’analyse mathématique.
 
-**_Programme :_**
+Dans le cadre du cours MT02 du deuxième semestre de l’année universitaire 2024/2025, j’ai assuré les travaux dirigés (TD) dédiés à l’introduction et à la consolidation des notions fondamentales de l’analyse mathématique.
+
+Les TD ont porté principalement sur les thématiques suivantes :
 
 
-*-Analyse mathématique de base : suites et séries numériques, convergence et applications.*
+*-**Analyse mathématique de base** : suites et séries numériques, convergence et applications.*
 
-*-Fonctions réelles d’une variable réelle : continuité, dérivabilité et étude de fonctions.*
+*-**Fonctions réelles d’une variable réelle** : continuité, dérivabilité et étude de fonctions.*
 
-*-Calcul différentiel : théorèmes fondamentaux (théorème des accroissements finis, Taylor).*
+*-**Calcul différentiel** : théorèmes fondamentaux (théorème des accroissements finis, Taylor).*
 
-*-Intégration : intégrale de Riemann, techniques de calcul et applications.*
+*-**Intégration** : intégrale de Riemann, techniques de calcul et applications.*
 
-*-Équations différentielles ordinaires simples et problèmes d’application.*
+*-**Équations différentielles ordinaires**: équations différentielles linéaires du premier ordre  et problèmes d’application.*
 
