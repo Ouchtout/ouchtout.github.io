@@ -1,15 +1,16 @@
 ---
-title: "Troisième expérience d’enseignement à l’Université de Technologie de Compiègne – Année universitaire 2024–2025 "
+title: "Quatrième expérience d’enseignement à l’Université de Technologie de Compiègne – Année universitaire 2025–2026 "
 collection: teaching
 type: "Laboratoire LMAC"
-permalink: /teaching/Teaching-3
+permalink: /teaching/Teaching-4
 venue: "Université UTC"
 date: 2026-01-01
 location: "Compiègne, France"
 excerpt: '' #Cliquez sur cet élément pour consulter la description détaillée.
 --- 
 
-Dans le cadre du cours MT22 du deuxième semestre de l’année universitaire 2024/2025, j’ai assuré les travaux dirigés (TD) visant à accompagner les étudiants dans l’acquisition des outils fondamentaux de l’analyse des fonctions de plusieurs variables et de l’analyse vectorielle, essentiels à la modélisation et à l’interprétation de phénomènes physiques et géométriques.
+
+Dans le cadre du cours MT22 du deuxième semestre de l’année universitaire 2025/2026, je suis actuellement en charge des travaux dirigés (TD), visant à accompagner les étudiants dans l’acquisition des outils fondamentaux de l’analyse des fonctions de plusieurs variables et de l’analyse vectorielle, essentiels à la modélisation et à l’interprétation de phénomènes physiques et géométriques.
 
 Les TD ont porté notamment sur les thématiques suivantes :
 
